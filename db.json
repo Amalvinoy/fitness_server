@@ -109,5 +109,15 @@
       "protein": 300
     }
   ],
-  "dietLogs": []
+  "dietLogs": [
+    {
+      "id": "bqkpje",
+      "meal": "idlie",
+      "calories": 100,
+      "protein": 10,
+      "fat": 5,
+      "carbs": 100,
+      "date": "2025-10-30"
+    }
+  ]
 }
