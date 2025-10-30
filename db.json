@@ -1,0 +1,113 @@
+{
+  "profiles": [
+    {
+      "id": "7fc8",
+      "name": "Amal Vinoy",
+      "age": "22",
+      "height": "165",
+      "weight": "56",
+      "goal": "build muscle"
+    }
+  ],
+  "weightLogs": [
+    {
+      "id": "c090",
+      "date": "2025-10-29",
+      "weight": 50,
+      "calories": null,
+      "fat": null
+    },
+    {
+      "id": "0ecc",
+      "date": "2025-10-29",
+      "weight": 56,
+      "calories": null,
+      "fat": null
+    },
+    {
+      "id": "04ac",
+      "date": "2025-10-29",
+      "weight": 60,
+      "calories": null,
+      "fat": null
+    },
+    {
+      "id": "954c",
+      "date": "2025-10-29",
+      "weight": 45,
+      "calories": 46,
+      "fat": null
+    },
+    {
+      "id": "8886",
+      "date": "2025-10-29",
+      "weight": 89,
+      "calories": 78,
+      "fat": null
+    },
+    {
+      "id": "1e9a",
+      "date": "2025-10-29",
+      "weight": -0.1,
+      "calories": 75,
+      "fat": null
+    },
+    {
+      "id": "60ad",
+      "date": "2025-10-29",
+      "weight": 80
+    }
+  ],
+  "calorieLogs": [
+    {
+      "id": "1",
+      "date": "2025-10-01",
+      "calories": 2200
+    },
+    {
+      "id": "2",
+      "date": "2025-10-10",
+      "calories": 2100
+    },
+    {
+      "id": "064a",
+      "date": "2025-10-29",
+      "calories": 3000
+    }
+  ],
+  "fatLogs": [
+    {
+      "id": "1",
+      "date": "2025-10-01",
+      "fat": 18
+    },
+    {
+      "id": "2",
+      "date": "2025-10-10",
+      "fat": 17.5
+    },
+    {
+      "id": "b492",
+      "date": "2025-10-29",
+      "fat": 60
+    }
+  ],
+  "proteinLogs": [
+    {
+      "id": "1",
+      "date": "2025-10-20",
+      "protein": 100
+    },
+    {
+      "id": "2",
+      "date": "2025-10-23",
+      "protein": 110
+    },
+    {
+      "id": "e5f0",
+      "date": "2025-10-29",
+      "protein": 300
+    }
+  ],
+  "dietLogs": []
+}
